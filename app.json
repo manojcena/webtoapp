@@ -25,7 +25,7 @@
         "body": {
             "background": {
                 "type": "html",
-                "url": "https://scketcher-log.scketch.com/admin/#/login",
+                "url": "https://scketcher-log.scketch.com/admin/",
                 "action": {
                     "type": "$default"
                 }

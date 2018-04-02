@@ -52,7 +52,7 @@
             "body": {
                 "background": {
                     "type": "html",
-                    "url": "https://scketcher-log.scketch.com/admin/#/login",
+                    "url": "https://projects.scketch.com/scketch/",
                     "action": {
                         "type": "$default"
                     }

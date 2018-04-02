@@ -65,6 +65,21 @@
                             "url": "https://raw.githubusercontent.com/manojcena/webtoapp/master/app.json",
                             "fresh": "true"
                         }
+                    },
+                    {
+                        "type": "label",
+                        "style": {
+                            "align": "right",
+                            "padding": "10",
+                            "color": "#000000",
+                            "font": "HelveticaNeue",
+                            "size": "12"
+                        },
+                        "text": "sample HTML",
+                        "href": {
+                            "url": "https://raw.githubusercontent.com/manojcena/webtoapp/master/app.json",
+                            "fresh": "true"
+                        }
                     }
                 ]
             }]

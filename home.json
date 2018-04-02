@@ -62,7 +62,7 @@
                         },
                         "text": "Check out scketch log live demo",
                         "href": {
-                            "url": "https://jasonette.github.io/Jasonpedia/demo.json",
+                            "url": "https://raw.githubusercontent.com/manojcena/webtoapp/master/app.json",
                             "fresh": "true"
                         }
                     }
